@@ -1,0 +1,7 @@
+name,score
+Alice,10
+Bob,12
+Bob,14
+Alice,20
+Alice,25
+Bob,20

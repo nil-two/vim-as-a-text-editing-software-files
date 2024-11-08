@@ -1,0 +1,7 @@
+TASK-10 Vimをインストールする
+TASK-11 vimtutorを終える
+TASK-12 quickrefを読んでみる
+TASK-15 業務上必要なVimのセットアップを行う
+TASK-16 VSCodeにVSCodeVimをインストールする
+TASK-17 IntelliJ IDEAにIdeaVimをインストールする
+TASK-18 ChromeにVimiumをインストールする
